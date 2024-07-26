@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sakshyam Sigdel | Portfolio Website</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Sakshyam Sigdel | Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jul 2024 01:08:59 +0545</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/post/first-post/</link>
+      <pubDate>Fri, 26 Jul 2024 01:08:59 +0545</pubDate>
+      <guid>http://localhost:1313/post/first-post/</guid>
+      <description>Hello World!</description>
+    </item>
+  </channel>
+</rss>
